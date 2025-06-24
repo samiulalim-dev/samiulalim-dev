@@ -12,7 +12,7 @@ I’m a passionate and self-motivated web developer from Bangladesh 🇧🇩
 Currently focused on building full-stack web applications using the MERN stack.  
 
 ### 🔍 Current Activities:
-- 🚀 Exploring **Next.js** and **React Hook Form**
+- 🚀 Exploring **Node.js** **Express.js** and **MongoDB**
 - 🌐 Working on a **Courier Service Management Website**
 - 📚 Preparing for internships and open-source contributions
 
