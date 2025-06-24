@@ -37,10 +37,9 @@ Currently focused on building full-stack web applications using the MERN stack.
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="samiulalim.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/samiulalim/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:samiulalim.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/samiul-alim-cse/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/samiulalim-dev" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://samiulalim-portfolio.web.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-18A0FB?style=for-the-badge&logo=internetexplorer&logoColor=white" /></a>
 </p>
 
 ---
@@ -59,6 +58,5 @@ Currently focused on building full-stack web applications using the MERN stack.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samiulalim-dev&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
----
 
 
