@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-<img src="https://postimg.cc/sB044QbP" alt="developer banner" style="width:100%; border-radius: 12px;" />
+<img src="https://i.postimg.cc/mDTpR7wn/github-banner.png" alt="developer banner" style="width:100%; border-radius: 12px;" />
 
 <h1 align="center">👋 Hi, I'm Samiul Alim</h1>
 <h3 align="center">💻 MERN Stack Developer | CSE Student | Tech Enthusiast</h3>
