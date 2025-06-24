@@ -61,5 +61,4 @@ Currently focused on building full-stack web applications using the MERN stack.
 
 ---
 
-_“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
 
