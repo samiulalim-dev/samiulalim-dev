@@ -11,7 +11,7 @@
 I’m a passionate and self-motivated web developer from Bangladesh 🇧🇩  
 Currently focused on building full-stack web applications using the MERN stack.  
 
---
+---
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&width=500&center=true&vCenter=true&lines=Hi+👋+I'm+Samiul+Alim;MERN+Stack+Web+Developer;Love+to+build+scalable+apps;Always+learning+new+things" alt="Typing SVG" />
 </p>
