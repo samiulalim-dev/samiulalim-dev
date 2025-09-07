@@ -57,9 +57,6 @@ Currently focused on building full-stack web applications using the MERN stack.
 </p>
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samiulalim-dev&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
 
 
