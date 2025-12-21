@@ -61,7 +61,9 @@ Currently focused on building full-stack web applications using the MERN stack.
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=samiulalim-dev&show_icons=true&theme=radical" />
+  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samiulalim-dev&layout=compact&theme=radical" />
 </p>
+
 
 
 
