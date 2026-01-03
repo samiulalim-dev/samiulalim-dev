@@ -1,15 +1,17 @@
+
 <!-- Banner Image -->
-<img src="https://i.postimg.cc/mDTpR7wn/github-banner.png" alt="developer banner" style="width:100%; border-radius: 12px;" />
+[![Pixel Art Wallpaper Desktop Gif](https://github.com/user-attachments/assets/68b05b87-a235-4916-82e3-b3d8bfa59896)
+]()
 
 <h1 align="center">👋 Hi, I'm Samiul Alim</h1>
-<h3 align="center">💻 Frontend Developer | CSE Student | Tech Enthusiast</h3>
+<h3 align="center">💻 Full Stack Developer | CSE Student | Tech Enthusiast</h3>
 
 ---
 
 ## 👨‍💻 About Me
 
-I’m a passionate and self-motivated web developer from Bangladesh 🇧🇩  
-Currently focused on building full-stack web applications using the MERN stack.  
+I’m a passionate and self-motivated full stack web developer from Bangladesh 🇧🇩  
+Currently focused on building full-stack web applications.  
 
 ---
 <p align="center">
@@ -17,7 +19,7 @@ Currently focused on building full-stack web applications using the MERN stack.
 </p>
 
 ### 🔍 Current Activities:
-- 🚀 Exploring **Node.js** , **Express.js** and **MongoDB**
+- 🚀 Exploring **Postgress SQL** , **Typescript** and **Prisma**
 - 🌐 Working on a **Courier Service Management Website**
 - 📚 Preparing for internships and open-source contributions
 
