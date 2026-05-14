@@ -62,8 +62,9 @@ Currently focused on building full-stack web applications.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=samiulalim-dev&show_icons=true&theme=radical" />
-  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samiulalim-dev&layout=compact&theme=radical" />
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=samiulalim-dev&show_icons=true&theme=tokyonight&hide_border=true" />
+
+  <img width="43%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=samiulalim-dev&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 
